@@ -23,19 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Selecionei uma foto de uma viagem incrível que fiz.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonard IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro queria uma imagem como se fosse dos desenhos da Pixar, depois como Anime
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+![UniversalUpscaler_6645545a-04ae-4b76-bb59-962be7945705](https://github.com/user-attachments/assets/40938c86-53df-44a8-878c-314692848af5)
+![UniversalUpscaler_4fcef117-5281-4bce-b22c-a30fe6e9bba6](https://github.com/user-attachments/assets/e6bcb595-9be5-44ee-b68a-06df41b9a6c3)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Nos dias de hoje é extremamente fácil e acessível criar algo com IA's, acredito que temos que usar com muito cuidado já que tem uma quantidade enorme de pessoas que acredita em tudo que vê e como bem sabemos, nem tudo que vemos é verdade... 
 ```
 
 ### Exemplos e Insigths
